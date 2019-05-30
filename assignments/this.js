@@ -47,7 +47,6 @@ const richard = new GoodGuy('Rob?');
 rob.speak();
 richard.speak();
 
-
 // Principle 4
 
 // code example for Explicit Binding
